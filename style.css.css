@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; margin: 20px; background: #f5f5fa; color: #222; }
+h1, h2 { color: #5a2e8a; }
+.curso { padding: 10px; border: 1px solid #ccc; border-radius: 5px; margin-bottom: 10px; background: #fff; }
+.completado { background-color: #d4edda; text-decoration: line-through; }
+.bloqueado { opacity: 0.5; pointer-events: none; }
+.ciclo { margin-top: 30px; }
+button { margin-top: 5px; padding: 5px 10px; cursor: pointer; }
+#creditos { font-weight: bold; margin-top: 20px; }
